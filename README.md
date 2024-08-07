@@ -6,4 +6,5 @@ Nothing impressive and would require a lot of work to be prsentable. Can't move 
 
 # Screenshots
 
- [![](DemoGIF)](https://github.com/knileshh/HLSplayer/blob/main/readmeMedia/demo.gif.gif)
+<img src="https://github.com/knileshh/HLSplayer/blob/main/readmeMedia/demo.gif.gif" alt="Demo" width="auto" height="auto">
+
